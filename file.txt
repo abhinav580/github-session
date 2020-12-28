@@ -1,1 +1,5 @@
 Feature 1
+https://console.aws.amazon.com/mwaa/home?region=us-east-1#environments/MyAirflowEnvironment3/sso
+http://b03067a3-1baa-4896-adf6-55ac3734848a-vpce.c4.us-east-1.airflow.amazonaws.com/aws_mwaa/
+
+https://b03067a3-1baa-4896-adf6-55ac3734848a-vpce.c4.us-east-1.airflow.amazonaws.com/aws_mwaa/aws-console-sso?login=true#eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3ZWIiLCJyb2xlcyI6IkFkbWluIiwiZXhwIjoxNjA5MTQ1NTA3LCJ1c2VyIjoiYXNzdW1lZC1yb2xlL2F3cy1hOTAxOC1nbGJsLTAwLTAtcm9sLXNocmQtc2hyLVNhWmszem9rQjZrY3lDVkV0cyJ9.HwqsN6FxDkW9hFBkpCLZ9bjLTp2Yws0tK0VceGeDrCW71_EaYC7MmBK-R4R6H2x6L6R3RvECh1-zbhop_n-isEmODAldH-e-llthz90yxz2VVQHzsjb-7or6Mpj4iRiI-qawHXZB0J-hdK-AkGbOPg3nHGfWnWYrSEcTbbjnAmOEveRqlvSMbJelXUh1Pb5jMhDFp3913gJQl0lSQHZxN5-yMdmj39iAItx1CvpnA1EsYHhgscjh0kOW6kBpEutPfRYAUe8GoqlKzeP_cQ20iE8wW2EmuVKcIkjANjfjJS13SwQ4BzH6EDn46Fix1fTUx_sK_kYK9Hq-DAm5cEn0MA
